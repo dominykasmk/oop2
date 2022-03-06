@@ -6,7 +6,7 @@ Taip pat yra galimybė studentus nuskaityti iš failo.
 
 ## Kaip parunnint
 
- - `git clone https://github.com/dominykasmk/oop-test.git`
+ - `git clone https://github.com/dominykasmk/oop2.git`
  - `cd oop-test`
  - `g++ main.cpp students.cpp -o main`
  - `./main`
